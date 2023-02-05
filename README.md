@@ -1,5 +1,9 @@
 # Hi, I'm Ajh 👋
 
+### About Me
+
+I'm 13, male, and I would say I'm smart but I lack common sense.
+
 ### Hobbies
 
 Coding, gaming, producing music, editing videos, playing piano, playing cajón, railfanning, collecting model trains (N, HO, Z scale)
