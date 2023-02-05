@@ -26,7 +26,7 @@ Libraries I like are Bootstrap Icons, Movement
 Replit: [Ajh499](https://replit.com/@Ajh499)  
 YouTube: [ajh1](https://youtube.com/@ajh1)  
 Discord: [ajh#2010](https://discord.gg/mMF22K4N9w)  
-GitHub: [ajh1](https://jstris.jezevec10.com/u/ajh1)  
+GitHub: [ajh1](https://www.youtube.com/watch?v=dPtXaAZHuho)  
 Bandcamp: [KIKIMXNE](https://ajhh.bandcamp.com/)  
 Social Rumbles: [ajh](https://socialrumbles.com/@ajh)  
 bonk.io: what23371  
