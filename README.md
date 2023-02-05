@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi, I'm Ajh 👋
 
-<!--
-**ajh1h/ajh1h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hobbies
 
-Here are some ideas to get you started:
+Coding, gaming, producing music, editing videos, playing piano, playing cajón, railfanning, collecting model trains (N, HO, Z scale)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Games
+
+Rocket League, Numberlinks / Flow Free, Minecraft, Jstris, BeamNG.drive, bonk.io, Roblox, Quaver
+
+### Programming
+
+Advanced in HTML, CSS  
+Profecient in SQL, SCSS, SASS  
+Decent in JavaScript, PHP, Python  
+Rookie in Lua, Go  
+Frameworks I like are Django, Node, Bottle  
+Libraries I like are Bootstrap Icons, Movement
+
+### Links
+
+Replit: [Ajh499](https://replit.com/@Ajh499)  
+YouTube: [ajh1](https://youtube.com/@ajh1)  
+Discord: [ajh#2010](https://discord.gg/mMF22K4N9w)  
+GitHub: [ajh1](https://jstris.jezevec10.com/u/ajh1)  
+Bandcamp: [KIKIMXNE](https://ajhh.bandcamp.com/)  
+Social Rumbles: [ajh](https://socialrumbles.com/@ajh)  
+bonk.io: what23371  
+Jstris: [ajh1](https://jstris.jezevec10.com/u/ajh1)  
+Epic Games: Ajh1h  
+Rocket League: [Ajh1h / ajh0101YT](https://rocketleague.tracker.network/rocket-league/profile/epic/Ajh1h/overview/)  
+Steam: [ajh69](https://steamcommunity.com/id/ajh69/)  
+Roblox: [bc2ez](https://web.roblox.com/users/160979454/profile)  
+Nitro Type: [aidanjhn](https://www.nitrotype.com/racer/aidanjhn)  
