@@ -36,9 +36,3 @@ Rocket League: [Ajh1h / ajh0101YT](https://rocketleague.tracker.network/rocket-l
 Steam: [ajh69](https://steamcommunity.com/id/ajh69/)  
 Roblox: [bc2ez](https://web.roblox.com/users/160979454/profile)  
 Nitro Type: [aidanjhn](https://www.nitrotype.com/racer/aidanjhn)  
-
-
-
-
-
-https://google.com ignore
