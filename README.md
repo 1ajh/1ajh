@@ -14,12 +14,14 @@ Rocket League, Numberlinks / Flow Free, Minecraft, Jstris, BeamNG.drive, bonk.io
 
 ### Programming
 
-Advanced in HTML, CSS  
-Profecient in SQL, SCSS, SASS  
-Decent in JavaScript, PHP, Python  
-Rookie in Lua, Go  
-Frameworks I like are Django, Node, Bottle  
+I started coding on 27 May 2022. HTML was my first language.
+Advanced in HTML, CSS
+Profecient in SQL, SCSS, SASS Python, PHP
+Decent in JavaScript
+Rookie in Lua, Go
+Frameworks I like are Django, Node, Bottle
 Libraries I like are Bootstrap Icons, Movement
+Related things I know how to use: JSON, Markdown, VBS, TOML, Git
 
 ### Links
 
