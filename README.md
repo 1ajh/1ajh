@@ -4,6 +4,8 @@
   </ul>
 </div>
 
+I like programming in HTML, CSS, JS, SASS, SCSS, PHP, Python, and I like working with Django, Flask, Bottle, Node, and SQLite. You'll find all my creations on Replit.
+
 [My main website](https://ajh1.net/)
 
 ### Links
