@@ -1,28 +1,5 @@
 # Hi, I'm Ajh 👋
 
-### About Me
-
-I'm 13, male, and I would say I'm smart but I lack common sense.
-
-### Hobbies
-
-Coding, gaming, producing music, editing videos, playing piano, playing cajón, railfanning, collecting model trains (N, HO, Z scale)
-
-### Games
-
-Rocket League, Numberlinks / Flow Free, Minecraft, Jstris, BeamNG.drive, bonk.io, Roblox, Quaver
-
-### Programming
-
-I started coding on 27 May 2022. HTML was my first language.
-Advanced in HTML, CSS
-Profecient in SQL, SCSS, SASS Python, PHP
-Decent in JavaScript
-Rookie in Lua, Go
-Frameworks I like are Django, Node, Bottle
-Libraries I like are Bootstrap Icons, Movement
-Related things I know how to use: JSON, Markdown, VBS, TOML, Git
-
 ### Links
 
 Replit: [Ajh499](https://replit.com/@Ajh499)  
