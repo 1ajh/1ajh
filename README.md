@@ -6,6 +6,7 @@ hey, im ajh, i like coding and producing music (jungle, dnb, brazil funk, etc), 
 ive worked on unblocked sites for 3 years now, always innovating, and working with other people such as silvereen, molkify, willo (clipped), etc
 
 below is a list of my proficiency
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
