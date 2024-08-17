@@ -14,7 +14,7 @@ django, flask, bootstrap, node.js, express
 yml, json, markdown
 
 ### os
-linux mint, windows 10, windows 11, windows 7, ubuntu 24
+linux mint, windows 10, windows 11, windows 7, windows vista, ubuntu 24
 
 ### other
 replit, dreamhost, billigerhost, visual studio code, freedns, namecheap, google domains, freebsd, and more
