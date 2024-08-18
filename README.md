@@ -1,3 +1,5 @@
+[![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-ajh)](https://github.com/anuraghazra/github-readme-stats)
+
 # hey, im ajh
 i like coding and producing music (jungle, dnb, brazil funk, house, etc), but thats besides the point, this is a site for coding
 
