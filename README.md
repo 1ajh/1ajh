@@ -1,8 +1,6 @@
 ![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-ajh&show_icons=true&theme=blue-green)
 
 # hey, im ajh
-i like coding and producing music (jungle, dnb, brazil funk, house, etc), but thats besides the point, this is a site for coding
-
 ive worked on unblocked sites for 3 years now, always innovating, striving for student privacy, and working with other people in the community to create better solutions.
 
 dev skill set:
