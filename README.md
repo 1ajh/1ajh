@@ -5,3 +5,6 @@ Online, I am mainly known for [AJH's Vault](https://ajhmath.org), a renowned, op
 
 ### Programming skill set
 ![Programming skill set](https://skillicons.dev/icons?i=python,js,css,html,bots,bootstrap,tailwind,nodejs,astro,django,discordjs,flask,sass,jquery,express,bsd,p5js,nginx,sqlite,replit,github,codepen,markdown,nix,npm,powershell,bash,cloudflare,npm,git,vscode,windows,ubuntu,mint&theme=dark)
+
+![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-ajh&show_icons=true&theme=blue-green)
+
