@@ -6,6 +6,6 @@ Hey! I'm Aidan -- 14 and a maker of things with a keen eye for detail. I am a fu
 ### Programming skill set
 ![Programming skill set](https://skillicons.dev/icons?i=python,js,css,html,bots,bootstrap,tailwind,nodejs,astro,django,discordjs,flask,sass,jquery,express,bsd,p5js,nginx,sqlite,replit,github,codepen,markdown,nix,npm,powershell,bash,cloudflare,npm,git,vscode,windows,ubuntu,mint&theme=dark)
 
-![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-ajh&show_icons=true&theme=blue-green)
+![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xe2l0rerja&show_icons=true&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-ajh&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xe2l0rerja&theme=github_dark)
