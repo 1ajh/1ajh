@@ -4,7 +4,7 @@ Hey! I'm Aidan -- 14 and a maker of things with a keen eye for detail. I am a fu
 > Online, I am mainly known for [AJH's Vault](https://ajhmath.org), a renowned, open-source unblocked game site with over 120 titles. I've been working on these sorts of sites for three years now, always innovating, striving for student privacy, and working with other people in the community to create better solutions.
 
 ### Programming skill set
-![Programming skill set](https://skillicons.dev/icons?i=python,js,css,html,bots,bootstrap,tailwind,nodejs,astro,django,discordjs,flask,sass,jquery,express,bsd,p5js,nginx,sqlite,replit,github,codepen,markdown,nix,npm,powershell,bash,cloudflare,npm,git,vscode,windows,ubuntu,mint&theme=dark)
+![Programming skill set reordered](https://skillicons.dev/icons?i=python,js,html,css,django,flask,nodejs,express,discordjs,astro,p5js,jquery,bootstrap,tailwind,sass,vscode,replit,codepen,github,sqlite,nginx,cloudflare,windows,ubuntu,mint,bash,nix,powershell,npm,git,markdown&theme=dark)
 
 ![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xe2l0rerja&show_icons=true&theme=blue-green)
 
