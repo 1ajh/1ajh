@@ -6,4 +6,4 @@ Hey! I'm AJ -- 15 and a maker of things with a keen eye for detail. I am a full-
 ### Programming skill set
 ![Programming skill set reordered](https://skillicons.dev/icons?i=python,js,html,css,django,flask,nodejs,express,discordjs,astro,p5js,jquery,bootstrap,tailwind,sass,vscode,replit,codepen,github,sqlite,nginx,cloudflare,windows,ubuntu,mint,bash,nix,powershell,npm,git,markdown&theme=dark) 
 
-![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xe2l0rerja&show_icons=true&theme=blue-green) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xe2l0rerja&theme=github_dark)
+![ajh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ajh&show_icons=true&theme=blue-green) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ajh&theme=github_dark)
